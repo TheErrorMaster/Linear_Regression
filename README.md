@@ -6,7 +6,7 @@ It models the relationship between a dependent variable and onr or more independ
 1. Plot the data with y as the output and x as the input And Plot
 ![](img/WithoutRL.png)
 2. Fit a linear regression model to this data.
-![](img/withRL.png)
+![](img/WithRL.png)
 3. Predict the value for y when x is 27.
 [28.31612]
 4. Predict the value for y when x is 150.
