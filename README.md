@@ -26,7 +26,8 @@ a = constant
 [8.03] <br>
 4. Predict the value for y when x is 20. <br>
 [19.96] <br>
-5. Would you want to use this regession model, when it only has N = 97 dependents or number of data length ? Why ore why not? <br>
+5. Would you want to use this regession model, when it only has N = 97 dependents or number of data length?
+Why ore why not? <br>
 NO, 150 is not enough data. <br>
 Linear regression needs a lot of training data so that it can fit the data correctly, <br>
 avoiding under-fitting as well as over-fitting
