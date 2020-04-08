@@ -1,7 +1,22 @@
 # What is Linear_Regression
-Linear regression is a statistical model that examines the linear relationship between two: <br>
+
+Linear regression is a statistical model that examines the linear relationship: <br>
 Simple Linear Regression or Multiple Linear Regression variables <br>
-It models the relationship between a dependent variable and onr or more independent variables. <br>
+It models the relationship between a dependent variable and one or more independent variables. <br>
+It is commonly used for predictive analysis. <br>
+Examines two things: <br>
+1. Does a predictor variable do a good job in predicting an outcome(dependent)variable. <br>
+2. Which variable in particular are significant predictors of the outcome variable? <br>
+# Formula 
+The Simpliest form of the regression equation is y = a + b*x <br>
+y = dependent variable <br>
+x = independet varaible <br>
+b = regression cofefficient <br>
+a = constant
+
+![](img/formula.png) <br>
+![](img/formula1.jpg) <br>
+
 # Directions 
 1. Plot the data with y as the output and x as the input And Plot <br>
 ![](img/WithoutRL.png) <br>
