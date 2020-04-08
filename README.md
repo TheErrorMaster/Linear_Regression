@@ -22,11 +22,11 @@ a = constant
 ![](img/WithoutRL.png) <br>
 2. Fit a linear regression model to this data. <br>
 ![](img/WithRL.png) <br>
-3. Predict the value for y when x is 27. <br>
-[28.31612] <br>
-4. Predict the value for y when x is 150. <br>
-[175.0592] <br>
-5. Would you want to use this regession model for predicting y when x is 150? Why ore why not? <br>
+3. Predict the value for y when x is 10. <br>
+[8.03] <br>
+4. Predict the value for y when x is 20. <br>
+[19.96] <br>
+5. Would you want to use this regession model, when it only has N = 97 dependents or number of data length ? Why ore why not? <br>
 NO, 150 is not enough data. <br>
 Linear regression needs a lot of training data so that it can fit the data correctly, <br>
 avoiding under-fitting as well as over-fitting
