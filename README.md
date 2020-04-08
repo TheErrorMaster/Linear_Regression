@@ -15,7 +15,7 @@ b = regression cofefficient <br>
 a = constant
 
 ![](img/formula.png) <br>
-![](img/formula1.jpg) <br>
+![](img/formula2.jpg) <br>
 
 # Directions 
 1. Plot the data with y as the output and x as the input And Plot <br>
