@@ -1,4 +1,4 @@
-# What is Linear_Regression
+# What is Linear Regression
 
 Linear regression is a statistical model that examines the linear relationship: <br>
 Simple Linear Regression or Multiple Linear Regression variables <br>
